@@ -22535,6 +22535,12 @@ pre > code.highlight {
 	/* Internet Explorer/Edge */
 	user-select: none;
 }
+.company-brand{
+	padding: 5px;
+}
+.text-align-start{
+	text-align: start;
+}
 
 .rdtPicker th.rdtDisabled,
 .rdtPicker th.rdtDisabled:hover {
