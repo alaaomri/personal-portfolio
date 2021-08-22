@@ -70,11 +70,11 @@ export const skillsSection = {
 
   softwareSkills: [
     {
-      skillName: "html-5",
+      skillName: "HTML5",
       fontAwesomeClassname: "vscode-icons:file-type-html",
     },
     {
-      skillName: "css3",
+      skillName: "CSS3",
       fontAwesomeClassname: "vscode-icons:file-type-css",
     },
     {
@@ -90,11 +90,11 @@ export const skillsSection = {
       fontAwesomeClassname: "logos:typescript-icon",
     },
     {
-      skillName: "reactjs",
+      skillName: "Reactjs",
       fontAwesomeClassname: "vscode-icons:file-type-reactjs",
     },
     {
-      skillName: "redux",
+      skillName: "Redux",
       fontAwesomeClassname: "logos:redux",
     },
     {
