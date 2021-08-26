@@ -2,15 +2,7 @@ import emoji from "react-easy-emoji";
 
 import decade from "./assets/img/icons/common/dkdLogo.svg";
 
-export const greetings = {
-  brand: "Alaa",
-  name: "Alaa OMRI",
-  title: "Hi all, I'm Alaa Eddine OMRI",
-  description:
-    "A passionate Full Stack Web Developer having an experience of building e-commerce Web applications with JavaScript / Reactjs / Redux / Nextjs / Java / JEE / Hybris / .Net and some other cool libraries and frameworks.",
-  resumeLink:
-    "https://drive.google.com/file/d/1hYpKIEmG8vXc23HygPKF9-mn1b5l6QD1/view?usp=sharing",
-};
+export const greetings = {};
 
 export const openSource = {
   githubUserName: "alaaomri",

@@ -20,15 +20,15 @@
   },
   "educationInfo": {
     "title": "EDUCATION",
-    "schoolName_0": "Faculty of sciences of Tunisia",
-    "subHeader_0": "NATIONAL MASTER’S DEGREE IN ENGINEERING in Computer Science.",
+    "schoolName_0": "Faculty of Mathematical, Physical and Natural Sciences of Tunis",
+    "subHeader_0": "National master's degree in Engineering in Computer Science.",
     "duration_0": "September 2016 - Juin 2019",
-    "desc_0": "National Diploma in Computer Science Engineering.",
+    "desc_0": "National Engineering Diploma in Computer Science (option: Software engineering).",
 
     "schoolName_1": "Monastir Preparatory Engineering Institute",
     "subHeader_1": "Preparatory classes : two-year undergraduate intensive course in  physics and chemistry.",
     "duration_1": "September 2014 - Juin 2016",
-    "desc_1": "National competitive examination for admission to Tunisian Engineering school (rank 280/1200).",
+    "desc_1": "National competitive examination for admission to Tunisian Engineering school.",
     "descBullets_1": ""
   },
   "experience": {
