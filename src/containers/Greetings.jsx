@@ -43,7 +43,7 @@ const Greetings = () => {
                 <Row>
                   <Col lg="6">
                     <h1 className="display-3 text-white">
-                      {t('greetings.title') + " "}
+                      {t('greetings.title')}
                     </h1>
                     <p className="lead text-white">{t('greetings.description')}</p>
                     <SocialLinks />
@@ -51,7 +51,7 @@ const Greetings = () => {
                       <Button
                         className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
                         color="default"
-                        href={greetings.resumeLink}
+                        href={t('greetings.resumeLink')}
                         target="_blank"
                       >
                         <span className="btn-inner--icon mr-1">
