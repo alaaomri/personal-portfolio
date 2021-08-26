@@ -1,4 +1,5 @@
 import React from 'react';
+import { useTranslation } from 'react-i18next';
 
 import {
   Card,
@@ -10,6 +11,7 @@ import {
 import SocialLinks from "../components/SocialLinks";
 
 const GithubProfileCard = ({ prof }) => {
+  const { t } = useTranslation();
   return (
     <Card className="section-lg bg-gradient-info shadow-lg border-0">
       <Container className="">
@@ -20,10 +22,10 @@ const GithubProfileCard = ({ prof }) => {
             </Col>
             <Col lg="8" className="order-lg-1">
               <h2 className="text-white">
-                Reach Out to me!
+                {t('github.title')}
               </h2>
               <p className="lead text-white mt-3">
-                DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL
+                {t('github.reachme')}
               </p>
               <p className="text-white mt-3">
                 {prof.bio}

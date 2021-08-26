@@ -8,8 +8,10 @@ import {
 import { Fade } from 'react-reveal';
 
 import ExperienceCard from "../components/ExperienceCard";
+import { useTranslation } from 'react-i18next';
 
 const Experience = () => {
+    const { t } = useTranslation();
     return (
         <section className="section section-sm">
             <Container>
@@ -21,13 +23,13 @@ const Experience = () => {
                             </div>
                         </div>
                         <div className="pl-4">
-                            <h4 className="display-3 text-info">Experience</h4>
+                            <h4 className="display-3 text-info">{t('experience.title')}</h4>
                         </div>
                     </div>
                     <Row className="row-grid align-items-center">
                         {
                             experience.map((data, i) => {
-                                return <ExperienceCard key={i} data={data} />
+                                return <ExperienceCard key={i} data={data} index={i} />
                             })
                         }
                     </Row>

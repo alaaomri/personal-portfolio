@@ -28,45 +28,7 @@ export const socialLinks = {
 };
 
 export const skillsSection = {
-  title: "What I do",
-  subTitle:
-    "PASSIONATE FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
-  // skills: [
-  //   [
-  //     emoji(
-  //       "⚡ Working with monolith application using Java JEE, hybris and Reactjs"
-  //     ),
-  //     emoji(
-  //       "⚡ Working with Backend RESTful APIs with JWT authentication Using ASP.NET Framework"
-  //     ),
-  //     emoji("⚡ Working with ReactJS, React Hooks, Context API and Redux"),
-  //     emoji("⚡ Working with Universal A Static Site Generator"),
-  //     emoji("⚡ Working with SQL and No-SQL Databases"),
-  //     emoji(
-  //       "⚡ Working with headless CMS like Contentful and querying using GraphQL"
-  //     ),
-  //     emoji(
-  //       "⚡ Working with Object-Oriented programming languages like Java and C#"
-  //     ),
-  //   ],
-  // ],
-  skills: [
-    emoji(
-      "⚡  Working with Backend RESTful APIs with JWT authentication Using ASP.NET Framework"
-    ),
-    emoji(
-      "⚡ Working with monolith application using Java JEE, hybris and Reactjs"
-    ),
-    emoji(
-      "⚡ Working with Object-Oriented programming languages like Java and C#"
-    ),
-    emoji("⚡ Working with SQL and No-SQL Databases"),
-    emoji("⚡ Working with ReactJS, React Hooks, Context API and Redux"),
-    emoji("⚡ Working with Universal A Static Site Generator"),
-    emoji(
-      "⚡ Working with headless CMS like Contentful and querying using GraphQL"
-    ),
-  ],
+  skills: [{}, {}, {}, {}, {}, {}, {}],
 
   softwareSkills: [
     {
@@ -163,48 +125,17 @@ export const SkillBars = [
   },
 ];
 
-export const educationInfo = [
-  {
-    schoolName: "Faculty of sciences of Tunisia",
-    subHeader: "Master of Science in Computer Science",
-    duration: "September 2016 - Juin 2019",
-    desc: "National Diploma in Computer Science Engineering",
-    descBullets: [],
-  },
-  {
-    schoolName: "Monastir Preparatory Engineering Institute",
-    subHeader: "Preparatory cycle physics chemistry",
-    duration: "September 2014 - Juin 2016",
-    desc: "Preparatory cycle physics chemistry(rank 280/1200) ",
-    descBullets: [],
-  },
-];
+export const educationInfo = [{}, {}];
 
 export const experience = [
   {
-    role: "Software Engineer",
-    company: "DECADE",
     companylogo: decade,
-    linkToCompany: "https://www.decade.fr/",
-    date: "April 2021 – Present",
-    desc: "Participating in developping e-commerce B2C website using Reactjs/ Redux/ Nextjs and .Net",
-    descBullets: [],
   },
   {
-    role: "Software Engineer",
-    company: "DECADE",
     companylogo: decade,
-    linkToCompany: "https://www.decade.fr/",
-    date: "July 2019 – Mars 2021",
-    desc: "Participating in developping e-commerce B2C website using Reactjs/ Java JEE/ Spring MVC / SAP Hybris.",
   },
   {
-    role: "Software Engineer Intern",
-    company: "DECADE",
     companylogo: decade,
-    linkToCompany: "https://www.decade.fr/",
-    date: "February 2019 – Mai 2019",
-    desc: "Integration of Algolia search Engine in an e-commerce website engined by hybris platform.",
   },
 ];
 

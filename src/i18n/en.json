@@ -1,0 +1,64 @@
+{
+  "greetings": {
+    "brand": "Alaa",
+    "name": "Alaa OMRI",
+    "title": "Hi all, I'm Alaa Eddine OMRI",
+    "description": "A passionate Full Stack Web Developer having an experience of building e-commerce Web applications with JavaScript / Reactjs / Redux / Nextjs / Java / JEE / Hybris / .Net and some other cool libraries and frameworks.",
+    "resumeLink": "https://drive.google.com/file/d/1hYpKIEmG8vXc23HygPKF9-mn1b5l6QD1/view?usp=sharing",
+    "resumeText": "See My Resume"
+  },
+  "skillsSection": {
+    "title": "What I do",
+    "subTitle": "PASSIONATE FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+    "skills_0": "Working with Backend RESTful APIs with JWT authentication Using ASP.NET Framework.",
+    "skills_1": "Working with monolith application using Java JEE, hybris and Reactjs.",
+    "skills_2": "Working with Object-Oriented programming languages like Java and C#.",
+    "skills_3": "Working with SQL and No-SQL Databases.",
+    "skills_4": "Working with ReactJS, React Hooks, Context API and Redux.",
+    "skills_5": "Working with Universal A Static Site Generator.",
+    "skills_6": "Working with headless CMS like Contentful and querying using GraphQL."
+  },
+  "educationInfo": {
+    "title": "EDUCATION",
+    "schoolName_0": "Faculty of sciences of Tunisia",
+    "subHeader_0": "NATIONAL MASTER’S DEGREE IN ENGINEERING in Computer Science.",
+    "duration_0": "September 2016 - Juin 2019",
+    "desc_0": "National Diploma in Computer Science Engineering.",
+
+    "schoolName_1": "Monastir Preparatory Engineering Institute",
+    "subHeader_1": "Preparatory classes : two-year undergraduate intensive course in  physics and chemistry.",
+    "duration_1": "September 2014 - Juin 2016",
+    "desc_1": "National competitive examination for admission to Tunisian Engineering school (rank 280/1200).",
+    "descBullets_1": ""
+  },
+  "experience": {
+    "title": "EXPERIENCES",
+    "role_0": "Software Engineer",
+    "company_0": "DECADE",
+    "companylogo_0": "decade",
+    "linkToCompany_0": "https://www.decade.fr/",
+    "date_0": "April 2021 – Present",
+    "desc_0": "Participating in developping e-commerce B2C website using Reactjs/ Redux/ Nextjs and .Net.",
+
+    "role_1": "Software Engineer",
+    "company_1": "DECADE",
+    "companylogo_1": "decade",
+    "linkToCompany_1": "https://www.decade.fr/",
+    "date_1": "July 2019 – Mars 2021",
+    "desc_1": "Participating in developping e-commerce B2C website using Reactjs/ Java JEE/ Spring MVC / SAP Hybris.",
+
+    "role_2": "Final Project",
+    "company_2": "DECADE",
+    "companylogo_2": "decade",
+    "linkToCompany_2": "https://www.decade.fr/",
+    "date_2": "February 2019 – Mai 2019",
+    "desc_2": "Integration of Algolia search Engine in an e-commerce website engined by hybris platform."
+  },
+  "proficiency": {
+    "title": "PROFICIENCY"
+  },
+  "github": {
+    "title": "Reach Out to me!",
+    "reachme": "DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL"
+  }
+}

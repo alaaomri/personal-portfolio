@@ -12,13 +12,16 @@ import {
 } from "reactstrap";
 
 import { skillsSection } from "../portfolio";
+import emoji from 'react-easy-emoji';
+import { useTranslation } from 'react-i18next';
 
 const Skills = () => {
+    const { t } = useTranslation();
     return (
         <Fade left duration={1000} distance="40px">
             <Container className="text-center my-5 section section-sm">
-                <h1 className="h1">{skillsSection.title}</h1>
-                <p className="lead">{skillsSection.subTitle}</p>
+                <h1 className="h1">{t('skillsSection.title')}</h1>
+                <p className="lead">{t('skillsSection.subTitle')}</p>
                 <Row>
 
                     <Col lg="6">
@@ -46,7 +49,9 @@ const Skills = () => {
                         <div className="text-align-start">
                             {
                                 skillsSection.skills.map((skill, index) => {
-                                    return <p key={index}>{skill}</p>
+                                    return <p key={index}>{emoji(
+                                        `⚡   ${t(`skillsSection.skills_${index}`)}`
+                                    )}</p>
                                 })
                             }
                         </div>
