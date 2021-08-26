@@ -1,0 +1,64 @@
+{
+  "greetings": {
+    "brand": "Alaa",
+    "name": "Alaa OMRI",
+    "title": "BONJOUR!, Je suis Alaa Eddine OMRI",
+    "description": "Un développeur full stack passionné par le développement Web. J'ai une expérience dans le développement des sites web e-commerce avec JavaScript / Reactjs / Redux / Nextjs / Java / JEE / Hybris / .Net et d'autres librairies et frameworks.",
+    "resumeLink": "https://drive.google.com/file/d/1hYpKIEmG8vXc23HygPKF9-mn1b5l6QD1/view?usp=sharing",
+    "resumeText": "Afficher mon CV"
+  },
+  "skillsSection": {
+    "title": "A PROPOS",
+    "subTitle": "Un développeur web full stack passionné par les nouvelles technologies.",
+    "skills_0": "Conception et mise en place de nouvelles fonctionnalités (tunnel d'achat, paiement ...): APIs REST, JWT authentication, Framework .NET.",
+    "skills_1": "Conception , développement et maintenance d'une application monolith avec Java JEE, hybris et Reactjs.",
+    "skills_2": "Travail avec les langages de programmation Orienté Objet comme Java et C#.",
+    "skills_3": "Travail avec des bases de données SQL et  No-SQL.",
+    "skills_4": "Travail avec ReactJS, React Hooks, Context API et Redux.",
+    "skills_5": "Travail sur des Applications Universelles.",
+    "skills_6": "Travail avec des headless CMS comme Contentful et récupération data en utilisant GraphQL."
+  },
+  "educationInfo": {
+    "title": "FORMATION",
+    "schoolName_0": "Faculté des Sciences Mathématiques, Physiques et Naturelles de Tunis",
+    "subHeader_0": "Cycle d’ingénieur en informatique (option ISIAD).",
+    "duration_0": "Septembre 2016 - Juin 2019",
+    "desc_0": "Diplôme nationale d'un ingénieur en Informatique.",
+
+    "schoolName_1": "Institut préparatoire aux études d’ingénieurs de Monastir (IPEIM)",
+    "subHeader_1": "Cycle préparatoire physique chimie.",
+    "duration_1": "Septembre 2014 - Juin 2016",
+    "desc_1": "Concours national d'entrée aux écoles d'ingénieurs tunisie.",
+    "descBullets_1": ""
+  },
+  "experience": {
+    "title": "EXPERIENCES",
+    "role_0": "Software Engineer",
+    "company_0": "DECADE",
+    "companylogo_0": "decade",
+    "linkToCompany_0": "https://www.decade.fr/",
+    "date_0": "Avrile 2021 – Présent",
+    "desc_0": "Participation au développement des sites web e-commerce B2C en utilisant Reactjs/ Redux/ Nextjs and .Net.",
+
+    "role_1": "Software Engineer",
+    "company_1": "DECADE",
+    "companylogo_1": "decade",
+    "linkToCompany_1": "https://www.decade.fr/",
+    "date_1": "Juillet 2019 – Mars 2021",
+    "desc_1": "Participation au développement des sites web e-commerce B2C en utilisant Reactjs/ Java JEE/ Spring MVC / SAP Hybris.",
+
+    "role_2": "Projet de Fin d’Etudes",
+    "company_2": "DECADE",
+    "companylogo_2": "decade",
+    "linkToCompany_2": "https://www.decade.fr/",
+    "date_2": "Février 2019 – Mai 2019",
+    "desc_2": "Intégration d'un moteur de recherche Algolia dans un site e-commerce motorisé par la plateforme SAP hybris."
+  },
+  "proficiency": {
+    "title": "COMPÉTENCES"
+  },
+  "github": {
+    "title": "Me Contacter!",
+    "reachme": "DISCUTER D’UN PROJET OU SIMPLEMENT DIRE BONJOUR? MA BOÎTE DE RÉCEPTION EST OUVERTE À TOUS"
+  }
+}
