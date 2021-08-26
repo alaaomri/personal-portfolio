@@ -2,7 +2,10 @@ import emoji from "react-easy-emoji";
 
 import decade from "./assets/img/icons/common/dkdLogo.svg";
 
-export const greetings = {};
+export const greetings = {
+  brand: "Alaa",
+  name: "Alaa OMRI",
+};
 
 export const openSource = {
   githubUserName: "alaaomri",
