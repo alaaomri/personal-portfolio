@@ -2,7 +2,7 @@
   "greetings": {
     "brand": "Alaa",
     "name": "Alaa OMRI",
-    "title": "BONJOUR!, Je suis Alaa Eddine OMRI",
+    "title": "Bonjour, Je suis Alaa Eddine OMRI",
     "description": "Un développeur full stack passionné par le développement Web. J'ai une expérience dans le développement des sites web e-commerce avec JavaScript / Reactjs / Redux / Nextjs / Java / JEE / Hybris / .Net et d'autres librairies et frameworks.",
     "resumeLink": "https://drive.google.com/file/d/1hYpKIEmG8vXc23HygPKF9-mn1b5l6QD1/view?usp=sharing",
     "resumeText": "Afficher mon CV"
@@ -32,7 +32,7 @@
     "descBullets_1": ""
   },
   "experience": {
-    "title": "EXPERIENCES",
+    "title": "EXPÉRIENCES",
     "role_0": "Software Engineer",
     "company_0": "DECADE",
     "companylogo_0": "decade",
