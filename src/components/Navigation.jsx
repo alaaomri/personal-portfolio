@@ -63,7 +63,7 @@ const Navigation = () => {
         >
           <Container>
             <NavbarBrand className="mr-lg-5">
-              <h2 className="text-white" id="nav-title">{greetings.brand}</h2>
+              <h2 className="text-white" id="nav-title">{t('greetings.brand')}</h2>
             </NavbarBrand>
             <button className="navbar-toggler" id="navbar_global">
               <span className="navbar-toggler-icon" />
@@ -79,7 +79,7 @@ const Navigation = () => {
                 <Row>
                   <Col className="collapse-brand" xs="6">
                     <a to="/">
-                      <h3 className="text-black" id="nav-title">{greetings.name}</h3>
+                      <h3 className="text-black" id="nav-title">{t('greetings.name')}</h3>
                     </a>
                   </Col>
                   <Col className="collapse-close" xs="6">
