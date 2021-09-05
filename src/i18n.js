@@ -5,7 +5,7 @@ import { Language } from "constants/Language";
 import translationEN from "i18n/en.json";
 import translationFR from "i18n/fr.json";
 
-const defaultLanguage = Language.FR;
+const defaultLanguage = Language.EN;
 
 // the translations
 const resources = {
