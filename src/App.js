@@ -13,9 +13,8 @@ import Projects from './containers/Projects';
 import Skills from './containers/Skills';
 
 const initilizaDataLayer = () => {
-  window.dataLayer = window.dataLayer || [];
   ReactGA.initialize("G-30WGJX7EJ9");
-  ReactGA.pageview(window.location.pathname);
+  ReactGA.pageview(window.location.pathname + window.location.search);
 };
 
 const App = () => {
